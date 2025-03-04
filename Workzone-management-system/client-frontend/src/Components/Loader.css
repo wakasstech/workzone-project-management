@@ -1,0 +1,12 @@
+/* HTML: <div class="loader"></div> */
+.loader {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 32px;
+    color: #3D338B;
+    animation: l1 1s linear infinite alternate;
+  }
+  .loader:before {
+    content:"𝕎𝕠𝕣𝕜 ℤ𝕠𝕟𝕖.."
+  }
+  @keyframes l1 {to{opacity: 0}}

@@ -1,0 +1,43 @@
+.Mui-expanded{
+    margin: 0px !important;
+    min-height: 34px !important;
+}
+/*.MuiListItem-gutters{*/
+/*    padding: 5px 4px !important;*/
+/*}*/
+
+.MuiPaper-elevation{
+    border: none !important;
+    box-shadow: none !important;
+  }
+  .css-hxa4ur-MuiPaper-root-MuiAccordion-root:before{
+    background-color: white;
+  }
+
+  .board-container {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 8px 15px;
+  }
+  
+  .avatar img {
+    cursor: pointer;
+    width: 25px; /* Adjust the width as per your requirement */
+    height: 25px; /* Adjust the height as per your requirement */
+    object-fit: cover;
+    border-radius: 5px; /* Optional: Add a border radius for rounded corners */
+    margin-right: 10px; /* Optional: Add some spacing between the avatar and title */
+  }
+  
+  .board-title {
+    cursor: pointer;
+    font-size: 14px; 
+    margin-bottom: 5;
+    margin-bottom: 5px;
+    color: var(--ds-text,#172b4d);
+    /* font-weight: 500;  */
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Noto Sans,Ubuntu,Droid Sans,Helvetica Neue,sans-serif;
+  }
+
+  
