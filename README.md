@@ -32,10 +32,6 @@ https://taskmanagement.ranaafaqali.com
 
 ## 🚀 Installation & Setup
 
-### 1️⃣ Clone the Repository
-
-git clone https://github.com/yourusername/workzone.git
-cd workzone
 2️⃣ Install Dependencies
 
 npm install
@@ -49,7 +45,7 @@ Database: Sequalize Sql
 Authentication: JWT-based authentication
 State Management: Redux
 💡 Contributing
-We welcome contributions! Feel free to open an issue or submit a pull request.
+We welcome contributions! 
 
 📜 License
 This project is licensed under the MIT License.
