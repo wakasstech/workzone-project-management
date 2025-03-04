@@ -5,7 +5,7 @@
 # Workzone - Project Management System 🛠️
 
 Workzone is a **Trello-like** project management system designed for efficient collaboration and task tracking. It allows users to create **workspaces, boards, lists, and cards**, assign tasks, manage permissions, and track progress with **checklists and role-based access control (RBAC)**.
-
+![Image](https://github.com/user-attachments/assets/543014fa-1af4-4af0-b35a-ca2e3a791cec)
 🔗 Live Demo: https://taskmanagement.ranaafaqali.com
 Admin--- 
 Email: owner@gmail.com
