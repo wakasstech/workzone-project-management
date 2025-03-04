@@ -38,7 +38,7 @@ npm install
 3️⃣ Start the Application
 
 npm start
-🏗️ Tech Stack
+# 🏗️ Tech Stack
 Frontend: React.js, MUI, StyleId Components
 Backend: Node.js, Express.js
 Database: Sequalize Sql
